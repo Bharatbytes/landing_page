@@ -132,7 +132,7 @@ header .navbar ul li a:hover{
   z-index: 0;
 }
 
-.home .video-container video{
+.home .bg-container{
   position: absolute;
   top:0; left: 0;
   height: 100%;
