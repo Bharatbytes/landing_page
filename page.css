@@ -132,14 +132,14 @@ header .navbar ul li a:hover{
   z-index: 0;
 }
 
-.home .bg-container{
+/* .home .bg-container{
   position: absolute;
   top:0; left: 0;
   height: 100%;
   width: 100%;
   object-fit: cover;
   z-index: -1;
-}
+} */
 
 .home .content{
   min-height: 100vh;
